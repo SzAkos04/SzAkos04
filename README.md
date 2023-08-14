@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SzAkos04
 - 👀 I’m interested in lower level languages
-- 🌱 I’m currently learning C via CS50x
+- 🌱 I’m currently learning C and C++
 
 
 <!---
